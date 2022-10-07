@@ -1,8 +1,6 @@
 #ifndef TESTACILINDRO_H_
 #define TESTACILINDRO_H_
 #include "Cilindro.h"
-#include <iostream>
-using namespace std;
 
 class TestaCilindro{
     private:
